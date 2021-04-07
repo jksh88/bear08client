@@ -1,3 +1,4 @@
+//TODO: mock all three types of users
 export const initialState: AppState = {
   user: {
     email: 'a123@gmail.com',

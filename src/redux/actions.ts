@@ -54,4 +54,4 @@ export const authenticateUser = ({ email, password }: AuthCredentials) => (
   }
 };
 //TODO: add errMsg as payload for failure?
-//shouldn't the supply of actions be thunked?
+//thunked here with usage of dispatch
